@@ -1,1 +1,1 @@
-Prod deployment to tomcat is sucess
+Prod deployment to tomcat is SUCESS
